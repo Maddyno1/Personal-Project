@@ -1,0 +1,7 @@
+/* Navigation */
+
+
+.skills-main:hover .stars {
+    display: block;
+    filter: drop-shadow(0 0 10px #31e6ce);
+}
